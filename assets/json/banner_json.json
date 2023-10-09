@@ -1,0 +1,45 @@
+[
+
+  {
+    "type": "horizontal_list",
+    "title": "Collections",
+    "items": [
+      {
+        "type": "circular_item",
+        "text": "Breakfast",
+        "image": "https://c8.alamy.com/comp/E5F3XW/alarm-clock-at-half-past-seven-with-continental-breakfast-in-the-background-E5F3XW.jpg"
+      },
+      {
+        "type": "circular_item",
+        "text": "Meat Based",
+        "image": "https://thumbs.dreamstime.com/z/meat-vector-illustration-white-background-30463413.jpg?w=768"
+      },
+      {
+        "type": "circular_item",
+        "text": "Vegan",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqmWdwEZit6RvqThVrTQHGY5DzXXFnphzcQU5aiXPFtDE1CDsAV_astudTv1SeGDcwIpc&usqp=CAU"
+      }
+    ]
+  },
+  {
+    "type": "horizontal_list",
+    "title": "Cuisines",
+    "items": [
+      {
+        "type": "box_item",
+        "text": "American",
+        "image": "https://images.unsplash.com/photo-1602030638412-bb8dcc0bc8b0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YW1lcmljYW4lMjBmb29kfGVufDB8fDB8fHww&w=1000&q=80"
+      },
+      {
+        "type": "box_item",
+        "text": "Italian",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIwQdFLGmfLumXdETQxx1vNEczgDF40am5fTf8saM3&s"
+      },
+      {
+        "type": "box_item",
+        "text": "Thai",
+        "image": "https://a.cdn-hotels.com/gdcs/production109/d913/52127df7-ccff-4762-8255-01b3ba749fca.jpg"
+      }
+    ]
+  }
+]
